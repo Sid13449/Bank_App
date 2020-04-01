@@ -7,4 +7,9 @@ public class AccountUtil {
 	public static int generateAccountNumber(){
 		return accNo++;
 	}
+	public AccountUtil() 
+	{
+		
+	}
+	
 }
